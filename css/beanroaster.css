@@ -100,3 +100,24 @@ footer {
     top: 177px;
     z-index: 0;
 }
+#load-image{
+    width="15%";
+}
+#load-image2{
+    width="61%";
+}
+#width_center{
+    width="24%";
+    align="center";
+}
+#colour_width{
+    width="80%";
+}
+#comment{
+    width="20%";
+    align="left";
+}
+#Comments{
+    style="width:622px;";
+    align="center";
+}
